@@ -180,22 +180,14 @@
   .navbar-brand {
     display: none;
   }
-  .search_area {
-    position: absolute;
-    top: -160px;
-    right: 35px;
-    z-index: 999;
-  }
   #search input[type="search"] {
     padding: 0 30px;
   }
   #search button.close {
     right: 30px;
   }
-  header .edu_nav nav .search_area .navbar-nav li i:before {
+  header .edu_nav nav .navbar-nav li i:before {
     color: #ffffff !important;
-  }
-  .header_top {
   }
   header .header_top {
     padding-top: 53px;

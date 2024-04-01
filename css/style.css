@@ -663,16 +663,16 @@ header .edu_nav nav .navbar-nav li ul li:hover ul {
   visibility: visible !important;
   top: -30px !important;
 }
-header .edu_nav nav .search_area .navbar-nav li {
+header .edu_nav nav .navbar-nav li {
   padding-left: 20px;
 }
-header .edu_nav nav .search_area .navbar-nav li:first-child {
+header .edu_nav nav .navbar-nav li:first-child {
   padding-left: 10px;
 }
-header .edu_nav nav .search_area .navbar-nav li i {
+header .edu_nav nav .navbar-nav li i {
   cursor: pointer;
 }
-header .edu_nav nav .search_area .navbar-nav li i:before {
+header .edu_nav nav .navbar-nav li i:before {
   margin: 0;
   color: #333146;
   font-weight: 700;
@@ -1067,7 +1067,7 @@ header .edu_nav nav .search_area .navbar-nav li i:before {
   -webkit-transition: all 0.3s ease-in-out;
   transition: all 0.3s ease-in-out;
 }
- .single_item:hover:before {
+.single_item:hover:before {
   background: #ff5a2c;
 }
 .single_item:hover .blog-img img {
@@ -1129,7 +1129,7 @@ header .edu_nav nav .search_area .navbar-nav li i:before {
 .single_item .blog_title h3 a:hover {
   color: #ff5a2c;
 }
-.single_item .blog_title  {
+.single_item .blog_title {
   padding: 15px 0 10px;
 }
 .single_item .blog_title span {
